@@ -1,7 +1,6 @@
-# Prodigy_DS
-Prodigy Infotech Internship
+# Data Science Tasks
 
-This repository contains my solutions and explorations for various tasks and projects assigned during my internship in the field of Data Science. Each task is implemented using Jupyter Notebooks, providing detailed explanations, code, and visualizations where applicable.
+This repository contains my solutions and explorations for various tasks and projects in the field of Data Science. Each task is implemented using Jupyter Notebooks, providing detailed explanations, code, and visualizations where applicable.
 
 Here's a brief overview of the tasks included in this repository:
 
