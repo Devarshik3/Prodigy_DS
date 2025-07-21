@@ -4,19 +4,19 @@ This repository contains my solutions and explorations for various tasks and pro
 
 Here's a brief overview of the tasks included in this repository:
 
-Task 1 - Visualization of Data
+Task 01 - Visualization of Data
 - Cleaned the dataset
 - Implemented visualizations to uncover patterns and relationships within the data.
 
-Task 2 - Exploratory Data Analysis(EDA):
+Task 02 - Exploratory Data Analysis(EDA):
 - Performed EDA like calculating statistical analysis and visualisation to showcase the relationship between various elements of dataset
 - Summarised the data
   
-Task 3(04) - Analyze and Visulaize sentiment patterns:
+Task 03 - Analyze and Visulaize sentiment patterns:
 - Installed and imported distinct library like "textblob" for the sentiment analysis purpose
 - Analysed the sentiment patterns and generated scores according to the sentiment.
 
-Task 4(05) - Analyze traffic accident data
+Task 04 - Analyze traffic accident data
 - Identified patterns related to road conditions, weather, and time of day.
 - Visualised data to show the contributing factors and stats of the data.
   
